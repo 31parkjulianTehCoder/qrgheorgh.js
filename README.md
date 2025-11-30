@@ -1,2 +1,2 @@
 # qrgheorgh.js
-Write more, do less. A Javascript framework from the creators of qrgheorgh.css
+Write more, do less. A Javascript framework and satire on modern web development.
